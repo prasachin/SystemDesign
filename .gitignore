@@ -1,0 +1,9 @@
+*.vscode
+*.o
+a.out
+oops
+*.exe
+*.out
+build/
+bin/
+dist/
